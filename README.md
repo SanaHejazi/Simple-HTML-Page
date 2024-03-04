@@ -18,10 +18,10 @@
 8. div.
 9. span.
 10. h1..h6 "use at least one of them".
-11. ul, li "use nested list(with order and un order)"
-12. table: tr, th, td
-13. a "with diffrent targets"
-14. img "use alt text"
+11. ul, li "use nested list(with order and un order)".
+12. table: tr, th, td.
+13. a "with diffrent targets" ...
+14. img "use alt text".
 15. audio: "size < 5 Mb"
 16. video: "size < 5 Mb"
 17. button: "optional\*"
