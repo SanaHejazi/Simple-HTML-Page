@@ -7,31 +7,32 @@
 ---
 
 ## Tags :
+header
 
-1. header.
-2. nav.
-3. aside.
-4. footer.
-5. main.
-6. section.
-7. p.
-8. div.
-9. span.
-10. h1..h6 "use at least one of them".
-11. ul, li "use nested list(with order and un order)".
-12. table: tr, th, td.
-13. a "with diffrent targets" ...
-14. img "use alt text".
-15. audio: "size < 5 Mb".
-16. video: "size < 5 Mb".
-17. button: "optional\*"
-18. article.
+1. header         Check
+2. nav.           Check
+3. aside.         Check
+4. footer.        Check
+5. main.          Check
+6. section.       Check
+7. p.             Check
+8. div.           Check
+9. span.          Check
+10. h1..h6 "use at least one of them".   Check
+11. ul, li "use nested list(with order and un order)". Check
+12. table: tr, th, td.    Check
+13. a "with diffrent targets" ...   Check
+14. img "use alt text".         Check
+15. audio: "size < 5 Mb".       Check
+16. video: "size < 5 Mb".       Check
+17. button: "optional\*".       Check
+18. article.                    Check
 
 ---
 
 ## Tips :
 
-### Code in the right way and follow semantic elements in HTML.
+### Code in the right way and follow .
 
 1. use every tags that mentioned above.
 2. use alt for every links we have.
