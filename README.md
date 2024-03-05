@@ -22,10 +22,10 @@
 12. table: tr, th, td.
 13. a "with diffrent targets" ...
 14. img "use alt text".
-15. audio: "size < 5 Mb"
-16. video: "size < 5 Mb"
+15. audio: "size < 5 Mb".
+16. video: "size < 5 Mb".
 17. button: "optional\*"
-18. article
+18. article.
 
 ---
 
